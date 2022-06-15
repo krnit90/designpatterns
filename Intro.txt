@@ -1,0 +1,12 @@
+Design Patterns:
+
+1> Solid Principle:
+
+S -> Single responsibility principle:
+    - This means, a class should have single responsibility(single reason to change.)
+O -> Open and close:
+    - 
+L -> Liskov 
+I -> Interface segregation
+D -> Dependency Inversion
+
